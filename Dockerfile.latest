@@ -1,2 +1,2 @@
-# Tags: latest
+# Tags:  latest
 FROM gcr.io/distroless/static-debian9:latest

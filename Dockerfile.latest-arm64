@@ -1,2 +1,2 @@
-# Tags: latest-arm64
+# Tags:  latest-arm64
 FROM gcr.io/distroless/static-debian9:latest-arm64

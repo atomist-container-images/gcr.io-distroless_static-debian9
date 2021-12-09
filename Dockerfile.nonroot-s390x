@@ -1,2 +1,2 @@
-# Tags: nonroot-s390x
+# Tags:  nonroot-s390x
 FROM gcr.io/distroless/static-debian9:nonroot-s390x

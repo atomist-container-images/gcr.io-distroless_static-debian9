@@ -1,2 +1,2 @@
-# Tags: latest-arm
+# Tags:  latest-arm
 FROM gcr.io/distroless/static-debian9:latest-arm
