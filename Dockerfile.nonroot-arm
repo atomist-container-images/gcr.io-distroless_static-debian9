@@ -1,0 +1,2 @@
+# Tags: nonroot-arm
+FROM gcr.io/distroless/static-debian9:nonroot-arm

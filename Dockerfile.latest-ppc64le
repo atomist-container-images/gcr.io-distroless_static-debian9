@@ -1,0 +1,2 @@
+# Tags: latest-ppc64le
+FROM gcr.io/distroless/static-debian9:latest-ppc64le

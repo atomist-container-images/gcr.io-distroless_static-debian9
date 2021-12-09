@@ -1,0 +1,2 @@
+# Tags: nonroot
+FROM gcr.io/distroless/static-debian9:nonroot

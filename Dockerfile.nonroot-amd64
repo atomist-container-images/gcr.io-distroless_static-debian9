@@ -1,0 +1,2 @@
+# Tags: nonroot-amd64
+FROM gcr.io/distroless/static-debian9:nonroot-amd64

@@ -1,0 +1,2 @@
+# Tags: nonroot-arm64
+FROM gcr.io/distroless/static-debian9:nonroot-arm64
