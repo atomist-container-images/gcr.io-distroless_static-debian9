@@ -1,6 +1,0 @@
-# Tags:  9287db1ed403f8e0494503759d5656bdfefec374, 9bff806aab486bad284339c7fa9dd87578905773, ca5fe575acf7aac5e916c25304d2ebd479810c58, e3da552fd2013b93c6ff63a02741c687c1f690c1, latest-amd64
-FROM gcr.io/distroless/static-debian9:9287db1ed403f8e0494503759d5656bdfefec374
-FROM gcr.io/distroless/static-debian9:9bff806aab486bad284339c7fa9dd87578905773
-FROM gcr.io/distroless/static-debian9:ca5fe575acf7aac5e916c25304d2ebd479810c58
-FROM gcr.io/distroless/static-debian9:e3da552fd2013b93c6ff63a02741c687c1f690c1
-FROM gcr.io/distroless/static-debian9:latest-amd64
